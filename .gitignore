@@ -10,3 +10,4 @@ npm-debug.log
 replit.nix
 .local/
 attached_assets/
+.npm/
