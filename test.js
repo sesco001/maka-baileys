@@ -1,6 +1,6 @@
 const baileys = require('./lib/index.js');
 
-console.log('=== keith-baileys Library Test ===\n');
+console.log('=== gifted-baileys Library Test ===\n');
 console.log('Library loaded successfully!');
 console.log('\nAvailable exports:');
 console.log(Object.keys(baileys).join('\n'));
