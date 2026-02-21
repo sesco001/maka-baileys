@@ -7,6 +7,10 @@
     "homepage": "https://github.com/makamesco",
     "author": "makamesco",
     "license": "MIT",
+    "scripts": {
+        "build": "echo 'No build step required for direct lib edits'",
+        "test": "node test.js"
+    },
     "keywords": [
         "whatsapp",
         "whatsapp-api",
