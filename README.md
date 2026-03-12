@@ -3,7 +3,7 @@
   <p>A WebSocket-based JavaScript library for interacting with the WhatsApp Web API</p>
   
   [![npm version](https://img.shields.io/npm/v/gifted-baileys.svg)](https://www.npmjs.com/package/makamesco-baileys)
-  [![npm downloads](https://img.shields.io/npm/dm/gifted-baileys.svg)](https://www.npmjs.com/package/makamesco-baileys)
+  [![npm downloads](https://img.shields.io/npm/dm/makamesco-baileys.svg)](https://www.npmjs.com/package/makamesco-baileys)
   [![License](https://img.shields.io/npm/l/gifted-baileys.svg)](https://github.com/mauricegift/gifted-baileys/blob/main/LICENSE)
 </div>
 
