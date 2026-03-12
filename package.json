@@ -1,6 +1,6 @@
 {
     "name": "@makamesco/baileys",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A lightweight, full-featured WhatsApp Web API library for Node.js",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
